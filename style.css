@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+
+.dropdown-menu{
+    font-family: 'Zilla Slab', serif;  
+}
+.navbar{
+    font-family: 'Zilla Slab', serif;
+}
+.container-lg{
+    align-items:flex-end ;
+}
+.home-text{
+    font-family: 'Zilla Slab', serif;
+    text-align:start; 
+    font-size: 25px;
+}
+.home-img{
+    align-items:center;
+}
+.section-title{
+    font-family: 'Zilla Slab', serif;
+}
+.about-text{
+    font-family: 'Zilla Slab', serif;
+}
+.fact-item{
+    font-family: 'Zilla Slab', serif;
+}
+.btn{
+    font-family: 'Zilla Slab', serif;
+    display: inline-block;
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+    border-radius: 6px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.skill-item{
+    align-items: flex-end;
+}
+.progress-caption{
+    font-family: 'Zilla Slab', serif;
+    font-size: 30px;
+    text-align:start;
+}
+.section-title{
+    font-size: 30px;
+}
+.service-item{
+    font-family: 'Zilla Slab', serif;
+    font-size: 18px;
+}
+.footer{
+    font-family: 'Zilla Slab', serif;
+}
